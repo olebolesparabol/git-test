@@ -1,1 +1,2 @@
 initial file 2 in master branch
+changes file 2
