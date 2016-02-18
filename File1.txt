@@ -1,3 +1,6 @@
 initial file 1 in master branch
 changes file 1
 change 2
+
+ammended change
+new ammend change
